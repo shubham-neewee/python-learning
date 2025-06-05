@@ -49,3 +49,17 @@ print(dd == ee) # False
 
 e = True or False
 print(e)
+
+
+# Truth Table for or
+# 1 1 = 1
+# 1 0 = 1
+# 0 1 = 1
+# 0 0 = 0
+# Truth Table for and
+# 1 1 = 1
+# 1 0 = 0
+# 0 1 = 0
+# 0 0 = 0
+
+print(not(True))
