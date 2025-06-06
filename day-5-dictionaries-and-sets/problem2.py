@@ -1,0 +1,20 @@
+# Write a program to take eight numbers are input from the user and display all unique numbers in the list.
+
+# user_input = ()
+
+# a = print(int(input("Enter number 1 : ")))
+# user_input.add(int(a))
+# b= print(int(input("Enter number 2 : ")))
+# user_input.add(b)
+# c = print(int(input("Enter number 3 : ")))
+# user_input.add(c)
+# d = print(int(input("Enter number 4 : ")))
+# user_input.add(d)
+# e = print(int(input("Enter number 5 : ")))
+# user_input.add(e)
+# f = print(int(input("Enter number 6 : ")))
+# user_input.add(f)
+# g = print(int(input("Enter number 7 : ")))
+# user_input.add(g)
+# h = print(int(input("Enter number 8 : ")))
+# user_input.add(h)
